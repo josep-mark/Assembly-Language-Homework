@@ -1,0 +1,6 @@
+reset
+as fibonacci fibonacci
+ld fibonacci
+set pc 0
+break set END
+continue

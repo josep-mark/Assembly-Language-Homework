@@ -1,0 +1,7 @@
+reset
+as sqrt sqrt
+ld sqrt
+set pc 0
+set r0 64
+break set END
+continue
